@@ -4,7 +4,7 @@ To determine the status of the repository
 
 ```shell
 git status
-'''
+```
 
 To stage changes for a specific file
 
