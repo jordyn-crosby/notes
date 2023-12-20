@@ -30,4 +30,8 @@ To push a commited change to the remote repository
 git push
 ```
 
+To create a directory 
 
+```shell
+mkdir <directory name>
+```
