@@ -35,3 +35,11 @@ To create a directory
 ```shell
 mkdir <directory name>
 ```
+
+To view directory/file list
+
+```shell
+ll
+```
+
+
