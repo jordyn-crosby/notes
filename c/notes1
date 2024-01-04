@@ -12,4 +12,5 @@ Takeaway:
 - first number before the decimal point stands for total characters 
 - number after decimal point stands for how many numbers after decimal 
 
- 
+%s : used as a string shortcut in strings for a variable
+%d : used as an integer shortcut in strings for an integer variable
