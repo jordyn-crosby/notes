@@ -42,4 +42,5 @@ To view directory/file list
 ll
 ```
 
-
+You can't do git commands if you are in directories
+that are deeper than what you are trying to commit
