@@ -14,3 +14,11 @@ Takeaway:
 
 %s : used as a string shortcut in strings for a variable
 %d : used as an integer shortcut in strings for an integer variable
+
+In a print line you can use these two shortcuts to reference a string or integeras long as you include that reference at the end of the print line like so... 
+
+char[] myName = "Jordyn";
+int myAge = 18;
+printf("Hello my name is %s and I am %d years old, myName, myAge);
+
+Or 
