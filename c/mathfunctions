@@ -1,0 +1,3 @@
+ceil - gives the next highest interger 
+floor - rounds down to the nearest integer
+pow - input 2 numbers (first is the base, second is the exponent)

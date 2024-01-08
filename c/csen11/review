@@ -1,0 +1,19 @@
+Review
+
+Program Structure
+
+//Preprocessing Directives 
+#include <file.h>
+#define CONSTANT constant_value
+
+int main(void)
+{
+  declarations (declare variables) 
+  statements (statements that use those variables) 
+}
+
+/*Everything ends with a semicolon*/
+
+To exit main program use 'return 0;'
+
+
